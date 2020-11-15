@@ -1,5 +1,5 @@
 # Hola, soy Carlos Tenes
-
+- 😎 Desarrollador FullStack de Guatemala para el mundo 🌍
 - 🔭 Actualmente trabajo en [502TEC](https://502tec.com/) como mi web personal y de emprendimiento.
 - 📫Encuentra me en [LinkedIn](https://www.linkedin.com/in/carlos-tenes98/)
 - 🐱‍👤Me encuentro cursando especializaciones en Ciencia de Datos(Johns Hopkins University), SEO(UCDavis), Automatización de TI(Google) en Coursera.
