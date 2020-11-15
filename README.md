@@ -2,7 +2,7 @@
 
 - 🔭 Actualmente trabajo en [502TEC](https://502tec.com/) como mi web personal y de emprendimiento.
 - 📫Encuentra me en [LinkedIn](https://www.linkedin.com/in/carlos-tenes98/)
-- 🐱‍👤Actualmente me encunetro cursando especializaciones en Ciencia de Datos(Johns Hopkins University), SEO(UCDavis), Automatización de TI(Google) en Coursera.
+- 🐱‍👤Me encuentro cursando especializaciones en Ciencia de Datos(Johns Hopkins University), SEO(UCDavis), Automatización de TI(Google) en Coursera.
 
 <br/>
 <p align="center"> 
