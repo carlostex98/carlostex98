@@ -7,7 +7,7 @@
 <br/>
 <p align="center"> 
   Estudio Ingenieria en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. <br>
-  Me gusta hablar y conocer sobre desarrollo web, ciencia de datos entro otras cosas.
+  Me gusta hablar y conocer sobre desarrollo web, ciencia de datos entre otras cosas.
 </p>
 <br/>
 
