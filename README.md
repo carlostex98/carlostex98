@@ -2,12 +2,12 @@
 - 😎 Desarrollador FullStack de Guatemala para el mundo 🌍
 - 🔭 Actualmente trabajo en [502TEC](https://502tec.com/) como mi web personal y de emprendimiento.
 - 📫Encuentra me en [LinkedIn](https://www.linkedin.com/in/carlos-tenes98/)
-- 📫 Mi correo: **cctenes@gmail.com**
+
 
 <br/>
 <p align="center"> 
-  Estudio Ingenieria en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. <br>
-  Me gusta hablar y conocer sobre desarrollo web, ciencia de datos entre otras cosas.
+  Ingeniero en sistemas (GT) </br>
+  AWS - Solutions Architect </br>
 </p>
 <br/>
 
